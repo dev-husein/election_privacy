@@ -1,5 +1,5 @@
 Privacy Policy for csc
-At elections, accessible from https://github.com/dev-husein/election_privacy/new/main, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by elections and how we use it.
+At elections, accessible from https://github.com/dev-husein/election_privacy/blob/main/privacy-policy.md, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by elections and how we use it.
 
 If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.
 
