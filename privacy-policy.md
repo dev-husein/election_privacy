@@ -3,7 +3,7 @@ At elections, accessible from https://github.com/dev-husein/election_privacy/blo
 
 If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.
 
-This Privacy Policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in elections. This policy is not applicable to any information collected offline or via channels other than this website. Our Privacy Policy was created with the help of the Privacy Policy Generator.
+This Privacy Policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in elections. This policy is not applicable to any information collected offline or via channels other than this app. Our Privacy Policy was created with the help of the Privacy Policy Generator.
 
 Consent
 By using our website, you hereby consent to our Privacy Policy and agree to its terms.
@@ -18,9 +18,9 @@ When you register for an Account, we may ask for your contact information, inclu
 How we use your information
 We use the information we collect in various ways, including to:
 
-Provide, operate, and maintain our website
-Improve, personalize, and expand our website
-Understand and analyze how you use our website
+Provide, operate, and maintain our app
+Improve, personalize, and expand our app
+Understand and analyze how you use our app
 Develop new products, services, features, and functionality
 Communicate with you, either directly or through one of our partners, including for customer service, to provide you with updates and other information relating to the website, and for marketing and promotional purposes
 Send you emails
@@ -71,4 +71,4 @@ If you make a request, we have one month to respond to you. If you would like to
 Children's Information
 Another part of our priority is adding protection for children while using the internet. We encourage parents and guardians to observe, participate in, and/or monitor and guide their online activity.
 
-elections does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.
+elections does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our app, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.
